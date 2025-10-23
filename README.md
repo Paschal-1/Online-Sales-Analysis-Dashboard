@@ -22,7 +22,10 @@ To transform raw online sales data into **actionable business insights** that he
 - Dynamic filters by **state, category, and payment mode**  
 - KPI cards showing **sales, profit, and quantity sold**  
 - Bar and map visuals for **regional and product performance**  
-- Trend analysis by **month and sub-category**  
+- Trend analysis by **month and sub-category**
+## 📊 Dashboard Preview
+<img width="902" height="486" alt="onlinesales1" src="https://github.com/user-attachments/assets/0ecc7c6b-4cc2-4988-917e-e861ae3baa29" />
+<img width="872" height="497" alt="onlinesales2" src="https://github.com/user-attachments/assets/02859987-a309-403b-9af4-07d867b9e025" />
 ---
 ## 📌 Impact  
 Empowered business stakeholders to quickly identify **high-performing regions**, optimize **product offerings**, and enhance **payment strategy** alignment with customer preferences.  
